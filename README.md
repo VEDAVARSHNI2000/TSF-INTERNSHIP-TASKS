@@ -9,3 +9,11 @@ From the given ‘Iris’ dataset, predict the optimum number of clusters and
 represent it visually.
 
 Task2 dataset-https://bit.ly/3kXTdox
+
+TASK-3 Exploratory data analysis-retail
+Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’ and 
+● As a business manager, try to find out the weak areas where you can work to
+make more profit.
+● What all business problems you can derive by exploring the data?
+
+TASK-3 dataset-https://bit.ly/3i4rbWl
